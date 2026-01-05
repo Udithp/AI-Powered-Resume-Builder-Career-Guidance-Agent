@@ -102,7 +102,7 @@ A live interactive prototype is implemented using **Google Colab and Gradio**.
 * Clear identification of suitable career roles
 * Increased employment readiness through skill gap awareness
 * Access to ethical and personalized career guidance
-* Contribution to **SDG 8 – Decent Work and Economic Growth**
+* Contribution to **Decent Work and Economic Growth**
 
 ---
 
@@ -118,6 +118,5 @@ A live interactive prototype is implemented using **Google Colab and Gradio**.
 
 ## 📌 Conclusion
 
-This project demonstrates a **functional, ethical, and socially relevant AI solution** that supports resume improvement, skill-based job recommendations, and employment readiness. It showcases applied AI skills while contributing to global sustainability goals under **Decent Work and Economic Growth
-**.
+This project demonstrates a **functional, ethical, and socially relevant AI solution** that supports resume improvement, skill-based job recommendations, and employment readiness. It showcases applied AI skills while contributing to global sustainability goals under **Decent Work and Economic Growth**.
 
