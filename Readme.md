@@ -1,6 +1,6 @@
 # 📌 AI-Powered Resume Builder & Career Guidance Agent
 
-**SDG 8 – Decent Work and Economic Growth**
+**Decent Work and Economic Growth**
 
 ---
 
@@ -24,9 +24,8 @@ Traditional career guidance methods are often manual, generic, and inaccessible.
 
 ---
 
-## 🌍 SDG Alignment
 
-**SDG 8 – Decent Work and Economic Growth**
+**Decent Work and Economic Growth**
 
 The project supports SDG 8 by:
 
@@ -119,5 +118,6 @@ A live interactive prototype is implemented using **Google Colab and Gradio**.
 
 ## 📌 Conclusion
 
-This project demonstrates a **functional, ethical, and socially relevant AI solution** that supports resume improvement, skill-based job recommendations, and employment readiness. It showcases applied AI skills while contributing to global sustainability goals under **SDG 8**.
+This project demonstrates a **functional, ethical, and socially relevant AI solution** that supports resume improvement, skill-based job recommendations, and employment readiness. It showcases applied AI skills while contributing to global sustainability goals under **Decent Work and Economic Growth
+**.
 
